@@ -1,0 +1,63 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (My_First_Cpp_Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  win32_platform.cpp
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\renderer.cpp(60,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\player.cpp(13,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\player.cpp(14,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(31,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(32,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(71,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(71,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(74,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(74,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(165,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(165,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(179,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(179,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(188,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(195,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(195,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(196,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(196,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(206,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(207,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(209,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(209,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(209,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(219,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(224,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(240,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(241,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(244,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(245,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(245,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(246,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(246,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(248,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(248,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(248,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(248,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(253,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(253,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(253,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(256,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(261,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(261,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(261,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(269,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(269,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(269,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(272,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(278,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(278,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(279,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(279,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(298,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(305,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(305,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\game.cpp(305,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\win32_platform.cpp(114,75): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\c++\WheatRush\My_First_Cpp_Game\win32_platform.cpp(115,115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  My_First_Cpp_Game.vcxproj -> C:\Users\Owner\Desktop\c++\WheatRush\x64\Debug\WheatRush.exe
